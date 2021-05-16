@@ -51,6 +51,5 @@ function start(){
 
 /* continuer to view videos ? class = yt-confirm-dialog-renderer */
 /* confirm button id = confirm-button */
-}
 
 setTimeout(() => {start();}, 1000);
